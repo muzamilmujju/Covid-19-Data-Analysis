@@ -67,13 +67,3 @@ This project focuses on performing an in-depth analysis of COVID-19 data in Indi
 * Integrate more recent data and automate fetching updates.
 * Add regional/village-level analysis if data is available.
 * Use machine learning to predict future trends of COVID-19 spread.
-
-## 👨‍💻 Author
-
-**Md Muzamil Ahmad**
-B.Tech in Computer Science Engineering (Data Science)
-Location: Hyderabad, India
-
----
-
-Would you like me to help format this into a downloadable `README.md` file?
